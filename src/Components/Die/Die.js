@@ -4,7 +4,8 @@ import '@fortawesome/fontawesome-free/css/all.css';
 
 class Die extends Component {
 	static defaultProps = {
-		numberWords: [ 'one', 'two', 'three', 'four', 'five', 'six' ]
+		numberWords: [ 'one', 'two', 'three', 'four', 'five', 'six' ],
+		val: 6
 	};
 	constructor(props) {
 		super(props);
