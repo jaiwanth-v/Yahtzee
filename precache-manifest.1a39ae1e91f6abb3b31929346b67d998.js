@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9d3d885f31952a8cc9292c0e3a8ddef",
+    "revision": "8b144bfda45774e27294b7867790caa2",
     "url": "/Yahtzee/index.html"
   },
   {
-    "revision": "88ee6a5b947407a1cf98",
+    "revision": "ea2abad0339757274b39",
     "url": "/Yahtzee/static/css/2.97d258d3.chunk.css"
   },
   {
-    "revision": "09b81874a1057991dc1d",
+    "revision": "ad1fea805796b422ebb1",
     "url": "/Yahtzee/static/css/main.44d7fed8.chunk.css"
   },
   {
-    "revision": "88ee6a5b947407a1cf98",
-    "url": "/Yahtzee/static/js/2.05d72ad2.chunk.js"
+    "revision": "ea2abad0339757274b39",
+    "url": "/Yahtzee/static/js/2.406258e3.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Yahtzee/static/js/2.05d72ad2.chunk.js.LICENSE.txt"
+    "url": "/Yahtzee/static/js/2.406258e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09b81874a1057991dc1d",
-    "url": "/Yahtzee/static/js/main.17f6cc52.chunk.js"
+    "revision": "ad1fea805796b422ebb1",
+    "url": "/Yahtzee/static/js/main.9481ffcf.chunk.js"
   },
   {
     "revision": "4e64d988dddfdbd9b660",
